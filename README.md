@@ -23,4 +23,4 @@
 #### Vote count for Diana is 272,892.
 #### Percentage of votes for Diana DeGette is equal to 73.8%.
 ## Election-Audit Summary:
-### In this Election Diana won by a landslide. This code can be used for other elections by modifing the names to better suite the election. I would probably want to add it to be able to view what party the canidates are.
+### In this Election Diana won by a landslide. This code can be used for other elections by modifing the names to better suite the election. I would probably want to add it to be able to view what party the canidates are. For me personally I had a hard time veiwing the results I was able to write the code but it was not able to process the information.
